@@ -32,8 +32,8 @@
 Node.js가 설치된 환경에서 PowerShell을 열고 아래 명령어를 실행하세요:
 
 ```powershell
-git clone https://github.com/<YOUR_GITHUB_ID>/antigravity-quota-panel.git
-cd antigravity-quota-panel
+git clone https://github.com/tramper2/AntiGraLLMusage.git
+cd AntiGraLLMusage
 .\install.ps1
 ```
 
